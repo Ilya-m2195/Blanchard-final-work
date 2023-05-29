@@ -1,0 +1,62 @@
+
+    /* events */
+
+    .events__block-information {
+        position: relative;
+        min-height: 525px;
+        padding: 34px;
+        padding-top: 13px;
+    }
+
+
+    /* contacts */
+
+    .contacnts__form-box {
+        padding-left: 0px;
+        margin-bottom: 30px;
+        max-width: 910px;
+        width: 100%;
+    }
+
+
+
+    /* galary */
+
+    
+
+    .choices {
+        margin-bottom: 108px;
+    }
+
+    .choices__inner {
+        padding: 0px 14px 0 18px;
+        width: 245px;
+        min-height: 38px;
+    }
+
+    .choices__list--single {
+        padding-top: 5px;
+    }
+
+    .choices__list--dropdown,
+    .choices__list[aria-expanded] {
+        width: 279px;
+    }
+
+    .modal-box__information {
+        padding: 121px 50px;
+        max-width: 231px;
+    }
+
+    .modal-box__img-1920 {
+        display: none;
+    }
+
+    .modal-box__img-1024 {
+        display: inline-block;
+    }
+
+   
+
+
+
