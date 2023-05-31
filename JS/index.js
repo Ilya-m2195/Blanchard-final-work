@@ -235,7 +235,7 @@ close.addEventListener('click', function() {
         spaceBetween: 30,
         slidesPerGroup: 1,
       },
-      560: {
+      501: {
         slidesPerView: 2,
         spaceBetween: 35,
         slidesPerGroup: 2,
@@ -289,7 +289,7 @@ close.addEventListener('click', function() {
         spaceBetween: 34,
         slidesPerGroup: 2,
       },
-      800: {
+      770: {
         slidesPerView: 3,
         spaceBetween: 25,
         slidesPerGroup: 3,
@@ -430,9 +430,6 @@ close.addEventListener('click', function() {
         required: true,
         minLength: 2,
         maxLength: 25,
-        function: () => {
-          
-        }
       },
       tel: {
         required: true,
