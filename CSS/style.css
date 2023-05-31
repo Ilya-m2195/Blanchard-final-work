@@ -1715,7 +1715,7 @@ input:focus:-ms-input-placeholder {
 /* progects */
 
 .projects {
-  margin-bottom: 76px;
+  margin-bottom: 77px;
   position: relative;
 }
 
@@ -1970,8 +1970,7 @@ input:focus:-ms-input-placeholder {
 .form__input {
   padding-top: 9px;
   padding-bottom: 9px;
-  padding-left: 24px;
-  width: 243px;
+  width: 264px;
   font-weight: 400;
   font-size: 16px;
   line-height: 32px;
