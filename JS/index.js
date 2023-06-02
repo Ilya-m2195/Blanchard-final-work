@@ -45,7 +45,7 @@ close.addEventListener('click', function() {
     item.addEventListener('click', function (e) {
       e.preventDefault();
 
-      let coordY = document.querySelector(item.getAttribute('href')).getBoundingClientRect().top + window.pageYOffset;
+      let coordY = document.querySelector(item.getAttribute('#href')).getBoundingClientRect().top + window.pageYOffset;
 
       let scroller = setInterval(function () {
         let scrollBy = coordY / framesCount;
