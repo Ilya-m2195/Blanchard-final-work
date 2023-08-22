@@ -1419,6 +1419,11 @@ input:focus:-ms-input-placeholder {
   display: none;
 }
 
+.artists-accordion__list-names_empty-block {
+  display: block;
+  margin-right: 60px;
+}
+
 .ac .ac-trigger {
   padding: 0;
   background-color: transparent;
