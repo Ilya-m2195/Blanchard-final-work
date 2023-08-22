@@ -227,7 +227,7 @@ close.addEventListener('click', function() {
 
   /* events slider */
 
-  const swiperEvents = new Swiper('.events__swiper-conteiner', {
+  const swiperEvents = new Swiper('.events__swiper-container', {
 
     breakpoints: {
       320: {

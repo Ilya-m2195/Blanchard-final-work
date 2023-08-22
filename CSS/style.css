@@ -37,7 +37,7 @@ ul {
   list-style: none;
 }
 
-.conteiner {
+.container {
   max-width: calc(100% - (var(--gap) * 2));
   margin: 0 auto;
 }
@@ -87,7 +87,7 @@ h3 {
   background: var(--color-000000);
 }
 
-.header__conteiner {
+.header__container {
   padding: 29px 0;
   display: flex;
   justify-content: space-between;
@@ -308,7 +308,7 @@ svg {
   background-color: var(--color-666666);
 }
 
-.menu__conteiner {
+.menu__container {
   margin-left: 151px;
   padding: 19px 0 20px;
   display: flex;
@@ -647,7 +647,7 @@ input:focus:-ms-input-placeholder {
   background-image: url('../img/hero/hero-bgd3-1920.jpg');
 }
 
-.hero__conteiner {
+.hero__container {
   padding-top: 63px;
   padding-bottom: 229px;
 }
@@ -729,7 +729,7 @@ input:focus:-ms-input-placeholder {
   background-size: cover;
 }
 
-.galary__conteiner {
+.galary__container {
   padding: 80px 0;
   display: flex;
 }
@@ -1332,8 +1332,6 @@ input:focus:-ms-input-placeholder {
   background-color: transparent;
 }
 
-
-
 .ac .ac-trigger::after {
   content: none;
 }
@@ -1345,7 +1343,6 @@ input:focus:-ms-input-placeholder {
   line-height: 32px;
   color: var(--color-333333);
 }
-
 
 .artists-accordion__image {
   transition: transform .3s ease-in-out;
@@ -1648,7 +1645,7 @@ input:focus:-ms-input-placeholder {
   transition: .2s ease-in-out;
 }
 
-.events__swiper-conteiner {
+.events__swiper-container {
   overflow: hidden;
 }
 
@@ -1786,7 +1783,7 @@ input:focus:-ms-input-placeholder {
   transition: .2s ease-in-out;
 }
 
-.projects-conteiner {
+.projects-container {
   display: flex;
   justify-content: center;
   padding-left: 20px;
@@ -1921,7 +1918,7 @@ input:focus:-ms-input-placeholder {
   border-top: 1px solid #CACACA;
 }
 
-.contacnts-conteiner {
+.contacnts-container {
   padding-top: 35px;
   display: flex;
   justify-content: space-between;
@@ -2116,7 +2113,7 @@ footer {
   background: var(--color-000000);
 }
 
-.footer-conteiner {
+.footer-container {
   padding-top: 54px;
   padding-bottom: 40px;
   display: flex;
